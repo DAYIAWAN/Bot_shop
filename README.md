@@ -15,3 +15,5 @@ settings.ini
 3. Открываем командную строку(cmd), переходим в директорию с ботом (смотреть FAQ ниже) и устанавливаем все необходимые библиотеки следующими командами: pip install --upgrade pip, pip install -r requirements.txt
 
 4. Запускаем бота, открываем командную строку (CMD) и прописываем в ней cd "путь к папке с ботом" жмём ENTER, затем прописываем python main.py
+
+Деплой на хостинге Railway.app : https://railway.app/project/b6170548-6268-4d50-9736-c53a41ddf1b8/service/d5e23c73-0573-44d5-8ef9-4d3b248bfe26
